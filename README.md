@@ -1,6 +1,6 @@
 # sumIT
 
-Pytorch framework playground
+Pytorch framework project playground
 
 - Data preparation: 
   * Generates pairs of 2 digits, concatenated along the width axis
