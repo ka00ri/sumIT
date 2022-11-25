@@ -1,4 +1,4 @@
-# sumIT
+# sumIT/diffIT
 
 Pytorch framework project playground
 
