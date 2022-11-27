@@ -7,4 +7,6 @@ Pytorch framework project playground
   * Splits data into train and test datasets
   * Saves each digit pair separately with names as labels
 - Model architecture:
-...
+  *
+  * 
+- Evaluation:
